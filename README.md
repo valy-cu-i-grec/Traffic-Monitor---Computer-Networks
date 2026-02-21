@@ -35,34 +35,6 @@ Connect to the server using its IP address and the designated port:
 
   './client <server_ip> 2909'
 
-===== Available Commands
-
-The following commands can be used within the client terminal:
-
-Command	          Parameters	      Description
-sign-up	          <user>-<pass>	    Create a new account.
-
-login	            <user>-<pass>     Authenticate into the system.	
-
-subscribe	        (none)	          Enable access to weather, gas, and sports info.
-
-update-street	    <street_name>	    Change current location and update speed limits.
-
-update-speed	   <value>	          Manually update current driving speed.
-
-report	         <type>-<street>	  Report incidents (police, crash, jam, etc.).
-
-get-info-weather (none)	            Get weather data for your current street.
-
-get-info-gas	   [station/fuel]	    View prices for specific stations or fuel types.
-
-get-info-sports	 [sport/street]	    Find events affecting traffic flow.
-
-help	           (none)	            Display the full list of commands.
-
-exit	           (none)	            Safely disconnect from the server.
-
-
 ===== File Structure
 
 Server.c: Central logic, database management, and alert broadcasting.
