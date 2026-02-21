@@ -1,0 +1,9 @@
+Str. Lapusneanu~15~ploaie~umed
+Str. Copou~-2.4~ninsoare~zapada
+Str. Sucedava~2~ceata~polei
+Str. Balcescu~16.1~ninsoare~polei
+Str. Sarariei~14.2~ploaie~umed
+Bd. Carol I~18.5~senin~uscat
+Str. Cuza Voda~1~ceata~polei
+Str. Pacurari~25~senin~uscat
+Sos. Nicolina~-5.4~ninsoare~zapada

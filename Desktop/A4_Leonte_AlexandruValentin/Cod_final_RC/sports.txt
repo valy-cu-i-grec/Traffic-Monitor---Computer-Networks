@@ -1,0 +1,17 @@
+fotbal~FCSB vs Dinamo~21:00~Str. Copou,Str. Lapusneanu
+fotbal~Poli Iasi vs CFR Cluj~18:30~Str. Sucedava,Str. Copou
+tenis~Turneu Open~10:00~Str. Balcescu
+baschet~Meci demonstrativ~19:00~Str. Copou
+maraton~Maratonul Orasului~08:00~Str. Lapusneanu,Str. Balcescu,Str. Copou,Str. Sucedava
+raliu~Campionat Super Rally~12:00~Str. Sucedava, Bd. Carol I
+ciclism~Turul Ciclist al Romaniei~10:30~Str. Copou, Sos. Nicolina
+handbal~CSM Iasi vs Rapid~17:00~Str. Sucedava
+volei~Finala Cupei Romaniei~16:00~Str. Balcescu
+fotbal~Meci Juniori U19~11:00~Str. Lapusneanu
+tenis~Cupa Juniorilor~09:00~Str. Copou,Str. Balcescu
+baschet~All Star Game~20:00~Str. Sucedava,Str. Lapusneanu
+atletism~Cursa de 5km~09:30~Bd. Carol I,Str. Sarariei
+fotbal~Meci Amatori~20:00~Str. Pacurari
+ciclism~Cursa de Noapte~22:00~Sos. Nicolina,Bd. Carol I
+tenis~Finala Locala~12:00~Str. Cuza Voda
+baschet~Streetball 3x3~16:00~Str. Sarariei

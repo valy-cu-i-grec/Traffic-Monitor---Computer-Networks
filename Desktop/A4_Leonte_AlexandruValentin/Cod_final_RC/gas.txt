@@ -1,0 +1,5 @@
+Lukoil~Diesel-Standard:7.77~Benzina-Standard:7.55~Diesel-Premium:8.13~Benzina-Premium:8.25
+Petrom~Diesel-Standard:7.74~Benzina-Standard:7.54~Diesel-Premium:8.16~Benzina-Premium:8.11
+OMV~Diesel-Standard:7.79~Benzina-Standard:7.59~Diesel-Premium:8.35~Benzina-Premium:8.32
+Rompetrol~Diesel-Standard:7.83~Benzina-Standard:7.63~Diesel-Premium:8.37~Benzina-Premium:8.34
+Socar~Diesel-Standard:7.79~Benzina-Standard:7.54~Diesel-Premium:8.19~Benzina-Premium:8.14
